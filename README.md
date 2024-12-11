@@ -1,6 +1,3 @@
-# Solana Token 2022 Staking program
-This repo contains a staking contract that allows users to create staking pools and stake tokens, all incorporating the new Token 20222 program! 
-
 ## Instructions
 
 ### `init_pool`
