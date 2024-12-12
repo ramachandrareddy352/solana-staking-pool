@@ -5,7 +5,7 @@ pub mod utils;
 
 use {anchor_lang::prelude::*, instructions::*};
 
-declare_id!("DV1Y8ojkz4FsfGEuVAUWYYEViJHRSmLCaTjBArZVP96K");
+declare_id!("Dew7MkBAqFZGNnS2sy5JwqBRbiiPPj6gU6MKCi6kLtXm");
 
 #[program]
 pub mod token_22_staking {
@@ -35,3 +35,6 @@ pub mod token_22_staking {
         unstake::handler(ctx)
     }
 }
+// 68de6a3761499e9b5330102b5c5c18880a229035995fd6189458c1bd11b66ae2
+// Dew7MkBAqFZGNnS2sy5JwqBRbiiPPj6gU6MKCi6kLtXm
+// Signature: uWnkviPuD8Gtekr5PyXeDjA84mBx7b4rkxNrPYgkSWWC69Q5nrEFYSifbXH9zasJdT4UggDsvcdarmLtYwrvkjR

@@ -4,14 +4,14 @@
 seeds = false
 skip-lint = false
 
-[programs.localnet]
-token_22_staking = "DV1Y8ojkz4FsfGEuVAUWYYEViJHRSmLCaTjBArZVP96K"
+[programs.devnet]
+token_22_staking = "Dew7MkBAqFZGNnS2sy5JwqBRbiiPPj6gU6MKCi6kLtXm"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "devnet"
 wallet = "/home/tavanam/new-keypair.json"
 
 [scripts]
